@@ -1,4 +1,3 @@
-# EDA-VISUALUIZATION-
 # Titanic Dataset Analysis 🚢
 
 ## Overview 📊
