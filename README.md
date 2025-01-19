@@ -8,7 +8,13 @@ This project involves analyzing the Titanic dataset using various data science t
 
 ## Data Visualization 📈
 - **Bar Plots**: Used for categorical variables.
+-  1. Bar plot for Survived
+   2. ![image](https://github.com/user-attachments/assets/90ff21a5-f2ba-49dc-be0b-a821ccd15a40)
+
 - **Histograms**: Created for numerical variables to understand their distributions.
+- Plot the histogram
+- ![image](https://github.com/user-attachments/assets/68d399e9-0ffd-4d1f-8944-b24790935989)
+
 
 ## Key Insights from Correlation Matrix of **Fare**, **Age**, **SibSp**, and **Parch** 🔍
 
